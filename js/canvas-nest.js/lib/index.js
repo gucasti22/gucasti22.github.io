@@ -1,18 +1,1 @@
-'use strict';
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-
-var _CanvasNest = require('./CanvasNest');
-
-var _CanvasNest2 = _interopRequireDefault(_CanvasNest);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-exports.default = _CanvasNest2.default; /**
-                                         * Created by hustcc on 18/6/23.
-                                         * Contract: i@hust.cc
-                                         */
-
-module.exports = exports['default'];
+Object.defineProperty(exports,"__esModule",{value:!0});var _CanvasNest=require("./CanvasNest"),_CanvasNest2=_interopRequireDefault(_CanvasNest);function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}exports.default=_CanvasNest2.default,module.exports=exports.default;
